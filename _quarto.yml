@@ -17,9 +17,12 @@ format:
     fig-responsive: true
     lang: "pl"
     fig-align: center
-    theme: cosmo
     css: styles.css
     toc: true
+    theme: 
+      dark: darkly
+      light: cosmo
+      
 
 
 
