@@ -46,7 +46,7 @@ Politechnika Białostocka:
 2019-2024
 :::
 
-### Koło SumoMasters
+### Koło SumoMasters{#sec-1}
 
 Aktywny członek koła naukowego na Politechnice Białostockiej (zawody robotów w Kolumbi, Brazyli, Litwie, Rumuni):
 
@@ -56,7 +56,9 @@ Aktywny członek koła naukowego na Politechnice Białostockiej (zawody robotów
 2022-2024
 :::
 
-#### Wykonane przeze mnie roboty {#sec-1}
+
+
+::: {.callout-important collapse=true title="Wykonane przeze mnie roboty"}
 
 Część mechaniczna robotów (zaprojektowanie, wykonanie części na frezarce CNC i złożenie) została wykonana przeze mnie. Elektronika została wykonana przez Norberta Waśkiewicza.
 
@@ -95,6 +97,12 @@ Kumo v2
 
 Kumo v1
 :::
+
+:::
+
+
+
+
 
 ## Umiejętności / Uprawnienia
 
@@ -138,6 +146,14 @@ Zakres uprawnienia: Wózki jezdniowe podnośnikowe z mechanicznym napędem podno
  Ważne do 21.12.2033 
 :::
 
+### Aktualne orzeczenie Sanepid
+
+Aktualne orzeczenie lekarskie do celów sanitarno-epidemiologicznych
+
+::: {style="color: gray"}
+bezterminowe
+:::
+
 ### Umiejętność obsługi frezarki
 
 KIMLA CNC 3-osiowa (starszy model)
@@ -175,15 +191,8 @@ Via Diesel - Nucleo industriale
 07.2023-09.2023
 :::
 
-# Aktualne orzeczenie Sanepid
-
-Aktualne orzeczenie lekarskie do celów sanitarno-epidemiologicznych
-
-::: {style="color: gray"}
-bezterminowe
-:::
 
 
-## Klauzula poufności
+# Klauzula poufności
 
 Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).
