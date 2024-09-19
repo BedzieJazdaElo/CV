@@ -2,14 +2,14 @@ project:
   type: website
   output-dir: docs
 
-website:
+# website:
   # title: "CV"
-  navbar:
-    left:
-      - href: index.qmd
-        text: CV
-      - href: index.qmd#sec-1
-        text: Roboty
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: CV
+  #     - href: index.qmd#sec-1
+  #       text: Roboty
 
 format:
   html:
